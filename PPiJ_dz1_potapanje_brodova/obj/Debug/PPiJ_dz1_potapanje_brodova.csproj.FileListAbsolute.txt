@@ -1,0 +1,9 @@
+D:\Projects\Visual Studio\PPiJ_dz1_potapanje_brodova\PPiJ_dz1_potapanje_brodova\bin\Debug\PPiJ_dz1_potapanje_brodova.exe.config
+D:\Projects\Visual Studio\PPiJ_dz1_potapanje_brodova\PPiJ_dz1_potapanje_brodova\bin\Debug\PPiJ_dz1_potapanje_brodova.exe
+D:\Projects\Visual Studio\PPiJ_dz1_potapanje_brodova\PPiJ_dz1_potapanje_brodova\obj\Debug\PPiJ_dz1_potapanje_brodova.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\PPiJ_dz1_potapanje_brodova\PPiJ_dz1_potapanje_brodova\obj\Debug\PPiJ_dz1_potapanje_brodova.Properties.Resources.resources
+D:\Projects\Visual Studio\PPiJ_dz1_potapanje_brodova\PPiJ_dz1_potapanje_brodova\obj\Debug\PPiJ_dz1_potapanje_brodova.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\PPiJ_dz1_potapanje_brodova\PPiJ_dz1_potapanje_brodova\obj\Debug\PPiJ_dz1_potapanje_brodova.exe
+D:\Projects\Visual Studio\PPiJ_dz1_potapanje_brodova\PPiJ_dz1_potapanje_brodova\obj\Debug\PPiJ_dz1_potapanje_brodova.pdb
+D:\Projects\Visual Studio\PPiJ_dz1_potapanje_brodova\PPiJ_dz1_potapanje_brodova\bin\Debug\PPiJ_dz1_potapanje_brodova.pdb
+D:\Projects\Visual Studio\PPiJ_dz1_potapanje_brodova\PPiJ_dz1_potapanje_brodova\obj\Debug\PPiJ_dz1_potapanje_brodova.battleship.resources
